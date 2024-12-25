@@ -1,0 +1,385 @@
+weights:[40.0, 32.0, 8.0, 4.0, 36.0]
+P-value for Normal{Float64}(μ=26.5, σ=8.5): 1.90533040544721e-24
+P-value for Normal{Float64}(μ=17.5, σ=5.5): 1.7533510817247917e-22
+P-value for Normal{Float64}(μ=14.5, σ=4.5): 2.3792505954555596e-20
+P-value for Normal{Float64}(μ=26.5, σ=8.5): 1.90533040544721e-24
+P-value for Normal{Float64}(μ=1.0, σ=7.0): 2.200178736198259e-21
+P-value for LogNormal{Float64}(μ=1.0, σ=0.4): 6.904485394821012e-35
+P-value for LogNormal{Float64}(μ=1.0, σ=0.1): 8.535067842623313e-52
+P-value for LogNormal{Float64}(μ=1.0, σ=0.7): 5.423922735500586e-24
+P-value for LogNormal{Float64}(μ=4.5, σ=0.4): 6.823864307746101e-77
+P-value for LogNormal{Float64}(μ=2.0, σ=1.0): 5.298835096784974e-7
+P-value for Exponential{Float64}(θ=1.0): 6.069485040212137e-56
+P-value for Exponential{Float64}(θ=0.31): 3.107293508774178e-75
+P-value for Exponential{Float64}(θ=0.75): 5.536760306384512e-63
+P-value for Exponential{Float64}(θ=0.54): 5.036608396031267e-67
+P-value for Exponential{Float64}(θ=0.37): 2.0486232869573308e-71
+P-value for Pareto{Float64}(α=4.8, θ=4.1): 1.2583188085944663e-25
+P-value for Pareto{Float64}(α=5.3, θ=4.1): 3.1954101813242256e-26
+P-value for Pareto{Float64}(α=3.3, θ=3.1): 3.301144397515703e-25
+P-value for Pareto{Float64}(α=3.3, θ=2.1): 2.2607968673260172e-36
+P-value for Pareto{Float64}(α=3.3, θ=3.1): 3.301144397515703e-25
+P-value for Weibull{Float64}(α=5.0, θ=4.5): 2.320201793411573e-35
+P-value for Weibull{Float64}(α=2.0, θ=5.5): 7.425314701609158e-25
+P-value for Weibull{Float64}(α=2.0, θ=2.0): 2.6876075108895356e-49
+P-value for Weibull{Float64}(α=4.5, θ=1.5): 1.5845458539944455e-68
+P-value for Weibull{Float64}(α=3.0, θ=1.0): 7.161886860699312e-69
+Any[Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.480063
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-23
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.258827529863378
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.46002
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-21
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.0392703026203085
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.437217
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-19
+
+Details:
+    number of observations:   120
+    KS-statistic:             4.78947092475778
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.480063
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-23
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.258827529863378
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.448418
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-20
+
+Details:
+    number of observations:   120
+    KS-statistic:             4.912173425920763
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.575005
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-34
+
+Details:
+    number of observations:   120
+    KS-statistic:             6.298867127417579
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.702031
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-51
+
+Details:
+    number of observations:   120
+    KS-statistic:             7.69036373363707
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.475501
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-23
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.208856405527524
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.856523
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-76
+
+Details:
+    number of observations:   120
+    KS-statistic:             9.382744092632821
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.251195
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-06
+
+Details:
+    number of observations:   120
+    KS-statistic:             2.751704547019689
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.729825
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-55
+
+Details:
+    number of observations:   120
+    KS-statistic:             7.994830786940453
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.847185
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-74
+
+Details:
+    number of observations:   120
+    KS-statistic:             9.280443875759039
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.774717
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-62
+
+Details:
+    number of observations:   120
+    KS-statistic:             8.486595268177885
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.799348
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-66
+
+Details:
+    number of observations:   120
+    KS-statistic:             8.75641523378423
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.825277
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-70
+
+Details:
+    number of observations:   120
+    KS-statistic:             9.040451337818459
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.491715
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-24
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.386464422711973
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.497488
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-25
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.449708438832064
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.487611
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-24
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.341512206759872
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.587262
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-35
+
+Details:
+    number of observations:   120
+    KS-statistic:             6.433136605927425
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.487611
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-24
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.341512206759872
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.578943
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-34
+
+Details:
+    number of observations:   120
+    KS-statistic:             6.342001705831412
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.484135
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-24
+
+Details:
+    number of observations:   120
+    KS-statistic:             5.30343659515061
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.684748
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-48
+
+Details:
+    number of observations:   120
+    KS-statistic:             7.501038772748832
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.808313
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-67
+
+Details:
+    number of observations:   120
+    KS-statistic:             8.854621269860472
+, Approximate one sample Kolmogorov-Smirnov test
+----------------------------------------------
+Population details:
+    parameter of interest:   Supremum of CDF differences
+    value under h_0:         0.0
+    point estimate:          0.810357
+
+Test summary:
+    outcome with 95% confidence: reject h_0
+    two-sided p-value:           <1e-68
+
+Details:
+    number of observations:   120
+    KS-statistic:             8.877013718668664
+]
+AIC_VALUES:Any[3277.2035804456264, 6801.548115629972, 10064.135265861383, 3277.2035804456264, 5646.868872314172, 3467.3567488606623, 47440.48772579163, 1612.4226691504814, 6770.514525601857, 1057.1408919541855, 5630.005372298623, 17875.772124112267, 7436.9634656764, 10276.347497461657, 14974.204784934287, Inf, Inf, Inf, Inf, Inf, 2.2241488067299175e9, 16564.641597309706, 123820.33662785748, 4.341916286913521e10, 8.394291299688724e7]
+Best Distribution based on AIC: LogNormal{Float64}(μ=2.0, σ=1.0)
+Best Distribution based on KS p-value: LogNormal{Float64}(μ=2.0, σ=1.0)
+Selected random variables saved to selected_rvs.csv
+Best Distribution based on KS p-value: LogNormal{Float64}(μ=2.0, σ=1.0)
+Enter the number of claims to select (n): 
+Randomly selected claim sizes: [1.3630466378107582, 16.282111542408835, 22.61805324532963, 3.333209032736942, 43.27722451453813, 32.64922019362473, 2.544548731024195, 0.9427729295155536, 7.222434824314144, 13.186633507233207, 0.5535504439754788, 27.83521576955923, 3.333209032736942, 5.920295159338973, 18.68959382733514, 1.11910096904856, 19.969300583574164, 1.394550218940263, 7.270545618166641, 24.24402008471492, 3.92310252130344, 30.356960736137328, 27.632633699024694, 0.6113430539827006, 27.83521576955923, 62.96763496000303, 3.2893405049563906, 23.220196969832017, 1.1104728780612187, 36.70165403251055, 4.807700925832686, 29.601992224136264, 17.54636514586785, 13.186633507233207, 4.807700925832686, 29.562467137987632, 0.9427729295155536, 6.395773324831217, 5.2328212762877175, 0.18331416413123186, 1.394550218940263, 100.37191741701555, 28.53173855186042, 19.969300583574164, 12.160697740639224, 6.395773324831217, 36.70165403251055, 27.632633699024694, 1.4845529204297319, 3.726291553359709]
+[0.18331416413123186, 0.5535504439754788, 0.6113430539827006, 0.9427729295155536, 0.9427729295155536, 1.1104728780612187, 1.11910096904856, 1.3630466378107582, 1.394550218940263, 1.394550218940263, 1.4845529204297319, 2.544548731024195, 3.2893405049563906, 3.333209032736942, 3.333209032736942, 3.726291553359709, 3.92310252130344, 4.807700925832686, 4.807700925832686, 5.2328212762877175, 5.920295159338973, 6.395773324831217, 6.395773324831217, 7.222434824314144, 7.270545618166641, 12.160697740639224, 13.186633507233207, 13.186633507233207, 16.282111542408835, 17.54636514586785, 18.68959382733514, 19.969300583574164, 19.969300583574164, 22.61805324532963, 23.220196969832017, 24.24402008471492, 27.632633699024694, 27.632633699024694, 27.83521576955923, 27.83521576955923, 28.53173855186042, 29.562467137987632, 29.601992224136264, 30.356960736137328, 32.64922019362473, 36.70165403251055, 36.70165403251055, 43.27722451453813, 62.96763496000303, 100.37191741701555]
