@@ -254,6 +254,10 @@ n = 5  # Number of distributions
 
 weights = rand(1:10,n) # Example weights
 
+#to be biased to a certain distribution : the following three lines can be uncommented
+# bias_index = 4  # Bias towards the first distribution
+# bias_weight = 100  # Assign a large weight to the first distribution
+# weights[bias_index]=bias_weight
 
 weights= (weights.*k)./sum(weights)
 
